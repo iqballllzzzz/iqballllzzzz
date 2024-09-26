@@ -1,7 +1,21 @@
-Panel Pterodactyl Command by RynXD
-
-Isi file docker-compose.yml :
-
+Game Panel:
+------------------------------------------------|
+----------------Subscribe to ZETA 404--------|
+------------------------------------------------|
+ 
+Making Folders (panel):
+ 
+mkdir pterodactyl
+ 
+cd pterodactyl
+ 
+mkdir panel
+ 
+cd panel
+ 
+nano docker-compose.yml
+ 
+ 
 version: '3.8'
 x-common:
   database:
@@ -83,12 +97,32 @@ networks:
       config:
         - subnet: 172.20.0.0/16
 
-
-
-Jalanin panel :
+press ctrl+o then press enter 
+ 
+ 
+Start the Panel:
  
 docker-compose up -d
  
-Bikin user buat panel nya :
+Create a user for the panel:
  
 docker-compose run --rm panel php artisan p:user:make
+
+make sure to make port 8080 public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
