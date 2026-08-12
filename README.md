@@ -1,6 +1,9 @@
 # 💫 About Me:
 ☀️ Hi everyone! My name is Iqbal.<br><br>📖 I’m a full-stack software engineer and machine learning engineer with 1.600+ contributors last year(private repo).<br>🧑‍💻 I’m only fourteen years old, and most of the projects I build are made independently, without AI assistance, except when I need help fixing bugs.<br><br>🚀 My dream is to become a young technology entrepreneur and build something that can make a real impact.<br><br>That’s a little introduction about me.<br>Thank you for reading, and see you next time! 👋
 
+<a href="https://tenor.com/view/anime-girl-gif-848912551340513">
+  <img src="./anime-girl.gif" width="300" alt="Anime Girl GIF">
+</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mh.iqbal_s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Iqbal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@darknshi_t) 
